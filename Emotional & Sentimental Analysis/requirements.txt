@@ -1,0 +1,8 @@
+streamlit==0.89.0
+pandas==1.3.3
+textblob==0.15.3
+vaderSentiment==3.3.2
+cleantext==1.1.3
+matplotlib==3.4.3
+wordcloud==1.8.1
+nrclex==3.0.0
